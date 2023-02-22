@@ -1,16 +1,15 @@
-### Hi there 👋
+## About Me
+I'm Quentin, a Bachelor's degree student in Information Technology with a passion for web development. I aim to specialize in this field and pursue a master's degree in web development in the future.
 
-<!--
-**qrodrigues/qrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Proficiency in HTML, CSS, and JavaScript
+- Experience with Node.js environment
+- Experience with Symfony framework
+- Experience with Vue.js framework
+- Knowledge of responsive web development
 
-Here are some ideas to get you started:
+## Contact
+- Email: quentin.rodrigues1912@gmail.com
+- LinkedIn: quentin-rodrigues
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me for any questions or potential collaboration.
